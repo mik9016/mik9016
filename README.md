@@ -3,7 +3,7 @@
 
 ###
 
-i'm Mikolaj. I'm a Frontend developer and tech enthusiast. 
+I'm Mikolaj. I'm a Frontend developer and tech enthusiast. 
 
 Currently i'm learnig to become a fullstack developer.
 
@@ -24,15 +24,21 @@ Currently i'm learnig to become a fullstack developer.
 
 
 
-
+<hr>
+<br/>
 
 ## 📬 Get in touch
 
-- Web: [www.mgruszecki.com][1]
-- LinkedIn: [linkedin.com/in/https://www.linkedin.com/in/miko%C5%82aj-gruszecki-2b54561b8/][2]
+- Web: www.mgruszecki.com
+- LinkedIn: <a href="https://www.linkedin.com/in/miko%C5%82aj-gruszecki-2b54561b8/">
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="32px" />
+</a>
 
+<hr>
+<br/>
 
 ## &#x1f4c8; My GitHub Stats
+<br/>
 
 <a href="https://github.com/mik9016/mik9016">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mik9016&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -41,6 +47,11 @@ Currently i'm learnig to become a fullstack developer.
 <a href="https://github.com/mik9016/mik9016">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mik9016&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
+<br>
+<br>
 
+<!-- #  Projects: 
+
+##  -->
 
 
