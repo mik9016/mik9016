@@ -5,7 +5,7 @@
 
 I'm Mikolaj. I'm a Frontend developer and tech enthusiast. 
 
-Currently i'm learnig to become a fullstack developer.
+Currently i'm on the path to become a fullstack developer.
 
 <hr>
 
