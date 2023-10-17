@@ -3,9 +3,8 @@
 
 ###
 
-I'm Mikolaj. I'm a Frontend developer and tech enthusiast. 
+I'm Mikolaj. I'm a Fullstack developer and tech enthusiast. 
 
-Currently working on my fullstack skills.
 
 <hr>
 
