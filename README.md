@@ -28,7 +28,6 @@ I'm Mikolaj. I'm a Fullstack developer and tech enthusiast.
 
 ## 📬 Get in touch
 
-- Web: www.mgruszecki.com
 - LinkedIn: <a href="https://www.linkedin.com/in/miko%C5%82aj-gruszecki-2b54561b8/">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="32px" />
 </a>
